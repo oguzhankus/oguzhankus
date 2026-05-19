@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+ve+Makine+Öğrenme;Web+Uygulamaları;3D+Görselleştirme" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqKKoLv/giphy.gif" width="300" alt="developer working">
-</div>
-
 ---
 
 ## 🚀 Hakkımda
@@ -18,18 +14,9 @@ Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koor
 
 Özellikle **Yapay Zeka** ve **Makine Öğrenmesi** alanlarına ilgi duyuyorum. Veri işleme, model eğitimi ve gerçek hayat uygulamalarında AI'ı kullanmanın gücüne inanıyorum.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvq1/giphy.gif" width="300" alt="coding animation">
-  <img src="https://media.giphy.com/media/RbDKczqLWmDDfxJ8BX/giphy.gif" width="300" alt="ai animation">
-</div>
-
 ---
 
 ## 💻 Teknik Becerilerim
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i1ShOy/giphy.gif" width="400" alt="coding skills">
-</div>
 
 ### 🎯 Şu Anda Kullandığım Teknolojiler
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -51,23 +38,11 @@ Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koor
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="coding dedication">
-</div>
-
 ---
 
 ## 🎯 Mevcut Odak Alanlarım
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI animation">
-</div>
-
 ### 🔭 Şu Anda Üzerinde Çalıştığım Projeler
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7ZetQ5syz21Ys0A0/giphy.gif" width="300" alt="web development">
-</div>
 
 - **Web Uygulamaları**: TypeScript ve JavaScript ile modern, responsive web uygulamaları
 - **3D Görselleştirme**: 3D grafik işleme ve görselleştirme teknolojileri
@@ -75,71 +50,39 @@ Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koor
 
 ### 🌱 Aktif Olarak Öğrendiğim Konular
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ9Fp4Bq1dwAd/giphy.gif" width="300" alt="learning">
-</div>
-
 #### 🤖 Yapay Zeka & Makine Öğrenmesi
 - **Large Language Models (LLM)**: GPT, BERT ve diğer dil modelleri
 - **LLM Uygulamaları**: Doğal dil işleme, metin üretimi, sohbet botları
 - **Derin Öğrenme**: Neural Networks mimarileri ve optimizasyon
-
-<div align="center">
-  <img src="https://media.giphy.com/media/d3ODAKiTeUDsppCZ/giphy.gif" width="300" alt="data science">
-</div>
 
 #### 💾 Veri Tabanları ve Backend
 - **Python**: Django, Flask gibi web framework'ler
 - **Java**: OOP prensipleri, koleksiyonlar, Stream API
 - **Veritabanı Tasarımı**: SQL, veri modelleme
 
-<div align="center">
-  <img src="https://media.giphy.com/media/4Z7l6F1EBKE4Jlao4R/giphy.gif" width="300" alt="database">
-</div>
-
 ---
 
 ## 📊 Öne Çıkan Projelerim
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Gf3D16m86jcgO/giphy.gif" width="350" alt="project showcase">
-</div>
 
 ### 🌐 **Kişisel Website**
 Repository: [kisisel-websitem](https://github.com/oguzhankus/kisisel-websitem)
 - **Teknoloji**: TypeScript, CSS, HTML (87.5% TypeScript, 10% CSS, 1.3% JavaScript)
 - **Özellikler**: Modern tasarım, responsive layout, animasyonlar
 
-<div align="center">
-  <img src="https://media.giphy.com/media/HXV4ypE8zoLS0/giphy.gif" width="300" alt="web design">
-</div>
-
 ### 🎮 **3D Görüntüleme Projesi**
 Repository: [3D-Goruntuisleme](https://github.com/oguzhankus/3D-Goruntuisleme)
 - **Teknoloji**: TypeScript (90.7%), CSS (7.4%), JavaScript
 - **Özellikler**: 3D grafik işleme, görselleştirme, interaktif elemanlar
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgEx8SbQ0teblYQ/giphy.gif" width="300" alt="3D graphics">
-</div>
-
 ---
 
 ## 🎯 Gelecek Hedeflerim
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8FvWJzEn4tAQ/giphy.gif" width="300" alt="future vision">
-</div>
 
 - 🚀 **Yapay Zeka Uzmanlaşması**: Large Language Models alanında uzmanlaşmak
 - 💼 **Profesyonel Deneyim**: Startuplarda veya tech şirketlerinde çalışmak
 - 📱 **Full Stack Yeterlilik**: Frontend ve backend alanlarında tam yetkinlik
 - 🤝 **Open Source Katkıları**: Açık kaynak projelere aktif katılım
 - 🏆 **Teknoloji Lideri**: Yapay zeka alanında lider olmak
-
-<div align="center">
-  <img src="https://media.giphy.com/media/2dCEf2qkYozPwXFVyP/giphy.gif" width="300" alt="success">
-</div>
 
 ---
 
@@ -157,10 +100,6 @@ Repository: [3D-Goruntuisleme](https://github.com/oguzhankus/3D-Goruntuisleme)
 
 ## 🏆 Başarılarım
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="achievements">
-</div>
-
 - ⭐ Yazılım Mühendisliği Topluluğu - Grafik Tasarım Koordinatörü
 - 🎓 Bandırma Onyedi Eylül Üniversitesi - Yazılım Mühendisliği (1. Sınıf)
 - 💻 Birden fazla proje geliştirmesi ve yayınlanması
@@ -170,10 +109,6 @@ Repository: [3D-Goruntuisleme](https://github.com/oguzhankus/3D-Goruntuisleme)
 ## 📞 İletişim Bilgileri
 
 Benimle iletişime geçmek veya işbirliği yapmak istiyorsanız:
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlQaQ4XP80yNY5i/giphy.gif" width="300" alt="contact">
-</div>
 
 <div align="center">
 
@@ -188,10 +123,6 @@ Benimle iletişime geçmek veya işbirliği yapmak istiyorsanız:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9RbNzXi6Az1SCDU/giphy.gif" width="300" alt="collaboration">
-</div>
-
-<div align="center">
 
 ### 🌟 Eğer bu profil ilginizi çekerse, bir yıldız ⭐ bırakmayı unutmayın!
 
@@ -202,11 +133,8 @@ Benimle iletişime geçmek veya işbirliği yapmak istiyorsanız:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="coding dedication">
   
   **Yazılım Geliştirmeye Tutkulu • Yapay Zeka Meraklısı • Sürekli Öğrenen** 💫
-  
-  <img src="https://media.giphy.com/media/QH3h78bJEFqMrHnUFO/giphy.gif" width="300" alt="thank you">
   
 </div>
 
