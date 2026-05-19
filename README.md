@@ -41,10 +41,9 @@ Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
 
-### 🤖 Yapay Zeka & Makine Öğrenmesi Alanları
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🤖 Yapay Zeka & Makine Öğrenmesi
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logoColor=white)
 
 ### 🛠️ Araçlar & Platformlar
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,11 +80,9 @@ Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koor
 </div>
 
 #### 🤖 Yapay Zeka & Makine Öğrenmesi
-- **Derin Öğrenme (Deep Learning)**: Neural Networks, CNN, RNN mimarileri
-- **Doğal Dil İşleme (NLP)**: Text sınıflandırma, sentiment analysis, metin üretimi
-- **Bilgisayarla Görüntüleme (Computer Vision)**: Görüntü işleme, nesne tespiti, sınıflandırma
-- **Veri Analizi**: Veri temizleme, visualizasyon, istatistiksel analiz
-- **Makine Öğrenmesi Algoritmaları**: Supervised/Unsupervised Learning, Reinforcement Learning
+- **Large Language Models (LLM)**: GPT, BERT ve diğer dil modelleri
+- **LLM Uygulamaları**: Doğal dil işleme, metin üretimi, sohbet botları
+- **Derin Öğrenme**: Neural Networks mimarileri ve optimizasyon
 
 <div align="center">
   <img src="https://media.giphy.com/media/d3ODAKiTeUDsppCZ/giphy.gif" width="300" alt="data science">
@@ -134,11 +131,11 @@ Repository: [3D-Goruntuisleme](https://github.com/oguzhankus/3D-Goruntuisleme)
   <img src="https://media.giphy.com/media/3o7TKU8FvWJzEn4tAQ/giphy.gif" width="300" alt="future vision">
 </div>
 
-- 🚀 **Yapay Zeka Uzmanlaşması**: Derin öğrenme ve NLP alanında uzmanlaşmak
+- 🚀 **Yapay Zeka Uzmanlaşması**: Large Language Models alanında uzmanlaşmak
 - 💼 **Profesyonel Deneyim**: Startuplarda veya tech şirketlerinde çalışmak
 - 📱 **Full Stack Yeterlilik**: Frontend ve backend alanlarında tam yetkinlik
 - 🤝 **Open Source Katkıları**: Açık kaynak projelere aktif katılım
-- 🏆 **Teknoloji Lideri**: Makine öğrenmesi ve AI alanında lider olmak
+- 🏆 **Teknoloji Lideri**: Yapay zeka alanında lider olmak
 
 <div align="center">
   <img src="https://media.giphy.com/media/2dCEf2qkYozPwXFVyP/giphy.gif" width="300" alt="success">
