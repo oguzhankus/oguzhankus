@@ -99,13 +99,7 @@ Repository: [3D-Goruntuisleme](https://github.com/oguzhankus/3D-Goruntuisleme)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhankus&theme=radical" alt="GitHub Streak">
 </div>
 
----
 
-## 🏆 Başarılarım
-
-- ⭐ Yazılım Mühendisliği Topluluğu - Grafik Tasarım Koordinatörü
-- 🎓 Bandırma Onyedi Eylül Üniversitesi - Yazılım Mühendisliği (1. Sınıf)
-- 💻 Birden fazla proje geliştirmesi ve yayınlanması
 
 ---
 
