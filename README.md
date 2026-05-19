@@ -1,14 +1,16 @@
 # 👋 Merhaba, Ben Oğuzhan Kuş!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+ve+Makine+Öğrenmesine+İlgi+Duyuyorum;Yazılım+Geliştirmeye+Tutkulu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+ve+Makine+Öğrenme;Web+Uygulamaları" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 Hakkımda
 
-Yazılım geliştirmeye tutkulu bir geliştiriciyim. **Bilgisayar mühendisliğini** öğrenirken, pratik projeler geliştirerek kendimi **sürekli geliştiriyorum**. Her gün yeni teknolojiler öğrenme ve karmaşık problemleri çözme hedefinde ilerleyen biriyim.
+Yazılım geliştirmeye tutkulu bir geliştiriciyim. **Bandırma Onyedi Eylül Üniversitesi**'nde **1. Sınıf Yazılım Mühendisliği** öğrencisiyim. Bilgisayar mühendisliğini öğrenirken, pratik projeler geliştirerek kendimi **sürekli geliştiriyorum**. Her gün yeni teknolojiler öğrenmeye çalışıyorum.
+
+Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koordinatörü** olarak görev yapıyorum.
 
 Özellikle **Yapay Zeka** ve **Makine Öğrenmesi** alanlarına ilgi duyuyorum. Veri işleme, model eğitimi ve gerçek hayat uygulamalarında AI'ı kullanmanın gücüne inanıyorum.
 
