@@ -87,17 +87,7 @@ Repository: [3D-Goruntuisleme](https://github.com/oguzhankus/3D-Goruntuisleme)
 - 🤝 **Open Source Katkıları**: Açık kaynak projelere aktif katılım
 - 🏆 **Teknoloji Lideri**: Yapay zeka alanında lider olmak
 
----
 
-## 📈 İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhankus&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhankus&theme=radical" alt="GitHub Streak">
-</div>
 
 
 
