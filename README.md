@@ -23,6 +23,7 @@ Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koor
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 📚 Aktif Olarak Öğrendiğim Teknolojiler
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,12 +32,15 @@ Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koor
 ### 🤖 Yapay Zeka & Makine Öğrenmesi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-9333EA?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logoColor=white)
 
 ### 🛠️ Araçlar & Platformlar
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Antigravity Cursor](https://img.shields.io/badge/Antigravity%20Cursor-FF1744?style=for-the-badge&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-00D9FF?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -52,6 +56,7 @@ Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koor
 
 #### 🤖 Yapay Zeka & Makine Öğrenmesi
 - **Large Language Models (LLM)**: GPT, BERT ve diğer dil modelleri
+- **Claude & Gemini**: AI assistant'lar ve API entegrasyonları
 - **LLM Uygulamaları**: Doğal dil işleme, metin üretimi, sohbet botları
 - **Derin Öğrenme**: Neural Networks mimarileri ve optimizasyon
 
@@ -66,6 +71,7 @@ Aynı zamanda **Yazılım Mühendisliği Topluluğu**'nda **Grafik Tasarım Koor
 
 ### 🌐 **Kişisel Website**
 Repository: [kisisel-websitem](https://github.com/oguzhankus/kisisel-websitem)
+- **Live Site**: [https://oguzhankus.vercel.app/](https://oguzhankus.vercel.app/)
 - **Teknoloji**: TypeScript, CSS, HTML (87.5% TypeScript, 10% CSS, 1.3% JavaScript)
 - **Özellikler**: Modern tasarım, responsive layout, animasyonlar
 
@@ -86,7 +92,25 @@ Repository: [3D-Goruntuisleme](https://github.com/oguzhankus/3D-Goruntuisleme)
 
 ---
 
+## 📈 İstatistiklerim
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oguzhankus&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhankus&theme=radical" alt="GitHub Streak">
+</div>
+
+---
+
+## 🏆 Başarılarım
+
+- ⭐ Yazılım Mühendisliği Topluluğu - Grafik Tasarım Koordinatörü
+- 🎓 Bandırma Onyedi Eylül Üniversitesi - Yazılım Mühendisliği (1. Sınıf)
+- 💻 Birden fazla proje geliştirmesi ve yayınlanması
+
+---
 
 ## 📞 İletişim Bilgileri
 
