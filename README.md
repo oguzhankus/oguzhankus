@@ -59,7 +59,7 @@ Yazılım geliştirmeye tutkulu bir geliştiriciyim. **Bilgisayar mühendisliği
 #### 🤖 Yapay Zeka & Makine Öğrenmesi
 - **Derin Öğrenme (Deep Learning)**: Neural Networks, CNN, RNN mimarileri
 - **Doğal Dil İşleme (NLP)**: Text sınıflandırma, sentiment analysis, metin üretimi
-- **Bilgisayarla Görü (Computer Vision)**: Görüntü işleme, nesne tespiti, sınıflandırma
+- **Bilgisayarla Görüntüleme (Computer Vision)**: Görüntü işleme, nesne tespiti, sınıflandırma
 - **Veri Analizi**: Veri temizleme, visualizasyon, istatistiksel analiz
 - **Makine Öğrenmesi Algoritmaları**: Supervised/Unsupervised Learning, Reinforcement Learning
 
@@ -68,10 +68,7 @@ Yazılım geliştirmeye tutkulu bir geliştiriciyim. **Bilgisayar mühendisliği
 - **Java**: OOP prensipleri, koleksiyonlar, Stream API
 - **Veritabanı Tasarımı**: SQL, veri modelleme
 
-#### 🎨 Frontend & UI/UX
-- **Responsive Design**: Mobile-first approach
-- **CSS Animations**: Etkili ve performanslı animasyonlar
-- **UI Component Development**: Yeniden kullanılabilir bileşenler
+
 
 ---
 
@@ -87,10 +84,7 @@ Repository: [3D-Goruntuisleme](https://github.com/oguzhankus/3D-Goruntuisleme)
 - **Teknoloji**: TypeScript (90.7%), CSS (7.4%), JavaScript
 - **Özellikler**: 3D grafik işleme, görselleştirme, interaktif elemanlar
 
-### 🎓 **Algoritma ve Programlamaya Giriş**
-Repository: [algoritma-ve-programlamaya-giri-dev-oguzhankus](https://github.com/BANU-SoftwareEngineering/algoritma-ve-programlamaya-giri-dev-oguzhankus)
-- **Açıklama**: Temel algoritma ve programlama konseptleri
-- **Bağlam**: GitHub Classroom tarafından oluşturulmuş
+
 
 ---
 
@@ -108,47 +102,12 @@ Repository: [algoritma-ve-programlamaya-giri-dev-oguzhankus](https://github.com/
 
 ---
 
-## 🤝 İşbirliği Alanları
 
-Aşağıdaki alanlarda işbirliğine açığım:
 
-- 💻 **Web Uygulamaları**: Modern ve performanslı web projeleri
-- 🤖 **Yapay Zeka Projeleri**: Machine Learning ve Deep Learning uygulamaları
-- 📊 **Veri Analizi**: Veri işleme ve görselleştirme
-- 🎮 **3D Grafik**: Görüntüleme ve animasyon projeleri
-- 📚 **Eğitim**: Başlangıç seviyesi geliştiricilere mentorlik
 
 ---
 
-## 📈 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhankus&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhankus&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</div>
-
----
-
-## 💡 Biliyor Musunuz?
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlDy9x8FZo0XO1i/giphy.gif" width="250" alt="learning">
-</div>
-
-> **"Yapay Zeka sadece geleceğin teknolojisi değil, bugünün gerçeğidir."**
-
-Makine öğrenmesi modelleri artık:
-- 🎯 Hastalık teşhisinde doktor kadar başarılı
-- 🚗 Otonom araçlarda sürücü olarak çalışıyor
-- 🗣️ Doğal dil işlemede insan seviyesinde iletişim yapabiliyor
-- 🎨 Sanat ve yaratıcılıkta yeni olanaklar yaratıyor
-
-Bu yüzden ben de bu alandaki çabalarımı şiddetle arttırıyorum! 🚀
-
----
 
 ## 📞 İletişim Bilgileri
 
@@ -164,13 +123,6 @@ Benimle iletişime geçmek veya işbirliği yapmak istiyorsanız:
 
 </div>
 
----
-
-## 🎯 Hızlı Bağlantılar
-
-- 📚 [Tüm Projelerim](https://github.com/oguzhankus?tab=repositories)
-- 🌟 [Yıldızlı Projeler](https://github.com/oguzhankus?tab=stars)
-- 👥 [Takip Ediyorum](https://github.com/oguzhankus?tab=following)
 
 ---
 
